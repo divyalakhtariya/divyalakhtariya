@@ -1,151 +1,105 @@
 # Hi, I'm Divya Lakhtariya 👋
 
-### AI & Data Science Engineering Student | Data Analytics Enthusiast | AI/ML Explorer
+### AI & Data Science Engineering Student | Data Analytics | AI/ML
 
-I'm a **BE AI & Data Science student** with a Diploma in Computer Engineering, passionate about using data, artificial intelligence, and technology to solve real-world problems.
+I'm a **Bachelor of Engineering student specializing in Artificial Intelligence & Data Science**, with a Diploma in Computer Engineering.
 
-I enjoy building practical projects in **Data Analytics, Machine Learning, NLP, Generative AI, and Web Applications**. I'm continuously learning new technologies and improving my problem-solving and software development skills.
+I'm passionate about **Data Analytics, Artificial Intelligence, Machine Learning, and Generative AI**. I enjoy building practical projects that combine data, intelligent systems, and software development to solve real-world problems.
 
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing **Bachelor of Engineering in Artificial Intelligence & Data Science**
-- 💻 Diploma in **Computer Engineering**
-- 📊 Interested in **Data Analytics & Business Intelligence**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
-- ☁️ Interested in **Cloud Computing & Cloud Engineering**
-- 🧠 Currently learning **LLMs, LangChain, RAG & AI Application Development**
-- 🔍 Interested in solving real-world problems using data and technology
-- 🌱 Always learning and building new projects
+Currently, I'm strengthening my skills in **Data Analytics, SQL, Machine Learning, LLM applications, and Cloud Technologies**.
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 About Me
 
-### Programming & Development
-- Python
-- SQL
-- Java
-- PHP
-- JavaScript
-
-### Data Analytics & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Power BI
-- Tableau
-- Jupyter Notebook
-- Google Colab
-
-### AI / ML / NLP
-- Scikit-learn
-- Machine Learning
-- Natural Language Processing (NLP)
-- TF-IDF
-- Logistic Regression
-- spaCy
-- Generative AI
-- Large Language Models (LLMs)
-- LangChain
-- RAG
-
-### Web & Backend
-- Flask
-- FastAPI
-- React
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases & Tools
-- MySQL
-- PostgreSQL
-- MongoDB
-- Git
-- GitHub
-- VS Code
-- Ollama
+* 🎓 BE in **Artificial Intelligence & Data Science**
+* 💻 Diploma in **Computer Engineering**
+* 📊 Interested in **Data Analytics & Business Intelligence**
+* 🤖 Exploring **AI, Machine Learning, NLP & Generative AI**
+* ☁️ Learning **Cloud Technologies**
+* 🧠 Building applications with **LLMs and AI tools**
+* 🚀 Passionate about learning, building, and solving real-world problems
 
 ---
 
-## 💡 Featured Projects
+## 🛠️ Tech Stack
+
+**Languages:**
+Python • SQL • Java • JavaScript • PHP
+
+**Data & Analytics:**
+Pandas • NumPy • Matplotlib • Seaborn • Plotly • Power BI • Tableau
+
+**AI / ML / NLP:**
+Scikit-learn • Machine Learning • NLP • TF-IDF • Logistic Regression • spaCy • Generative AI • LLMs • LangChain
+
+**Web & Backend:**
+Flask • FastAPI • React • Node.js • Express.js • REST APIs
+
+**Databases & Tools:**
+MySQL • PostgreSQL • MongoDB • Git • GitHub • VS Code • Ollama
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 AI Q&A Chatbot
-An AI-powered question-answering chatbot built using **Python, Streamlit, LangChain, Ollama, and Llama 3.2**. The application runs an LLM locally and provides conversational responses.
 
-**Tech Stack:** Python, Streamlit, LangChain, Ollama, Llama 3.2
+An AI-powered conversational chatbot built with **LangChain, Ollama, and Llama 3.2**. The project demonstrates how a locally running Large Language Model can be integrated into an interactive AI application.
+
+**Tech:** Python • Streamlit • LangChain • Ollama • Llama 3.2
 
 ---
 
 ### 🧠 AI Flashcard & Quiz Generator
-An AI-powered learning application that converts study notes into **flashcards and multiple-choice quizzes** with different difficulty levels.
 
-**Tech Stack:** React, Python, AI/LLM APIs, REST API
+An AI-powered learning application that transforms study notes into **flashcards and multiple-choice quizzes** with different difficulty levels, helping students make their learning more interactive.
+
+**Tech:** React • Python • REST API • Generative AI
 
 ---
 
 ### ⚖️ Bias Detector
-An NLP-based application that detects potential **gender, age, and race-related bias** in text such as job descriptions and provides suggestions for making the content more inclusive.
 
-**Tech Stack:** Python, Flask, Scikit-learn, TF-IDF, Logistic Regression, spaCy
+An NLP-based application designed to identify potential **gender, age, and race-related bias** in text and provide suggestions for creating more inclusive content.
+
+**Tech:** Python • Flask • Scikit-learn • TF-IDF • Logistic Regression • spaCy
 
 ---
 
 ### 📊 Customer Shopping Trends Analysis
-A data analytics project focused on analyzing customer shopping behavior and extracting meaningful insights from data.
 
-**Tech Stack:** Python, Pandas, SQL, Power BI
+A data analytics project focused on analyzing customer shopping behavior, identifying trends, and extracting meaningful insights to support data-driven decision-making.
 
----
-
-### 🎓 Placement Mitr
-A placement-focused web application designed to help students with placement preparation and career-related resources.
-
-**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
+**Tech:** Python • Pandas • SQL • Power BI
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-- Generative AI & LLM Applications
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Cloud Computing
-- Data Analytics
-- Advanced SQL
-- System & Software Development
+* 📊 Advanced Data Analytics & SQL
+* 🤖 Generative AI & LLM Applications
+* 🔗 LangChain & RAG
+* ☁️ Cloud Computing
+* 🧠 Machine Learning & NLP
+* 🚀 Building practical AI-powered applications
 
 ---
 
-## 🎯 Career Goal
+## 🎯 My Goal
 
-My goal is to build a career where I can combine **Data Analytics, Artificial Intelligence, and Cloud Technologies** to create scalable and impactful technology solutions.
-
----
-
-## 📈 GitHub Goals
-
-- 🔨 Build more real-world projects
-- 🤖 Explore practical AI applications
-- 📊 Develop strong Data Analytics skills
-- ☁️ Learn and implement Cloud technologies
-- 💡 Contribute to open-source projects
-- 🚀 Continuously improve my technical and problem-solving skills
+To build a career at the intersection of **Data, Artificial Intelligence, and Cloud Technologies**, while continuously developing my technical and problem-solving skills.
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Divya Lakhtariya](https://www.linkedin.com/in/divya-lakhtariya-baa390348/)
-- 🐙 GitHub: [divyalakhtariya](https://github.com/divyalakhtariya)
+💼 **LinkedIn:** [Divya Lakhtariya](https://www.linkedin.com/in/divya-lakhtariya-baa390348/)
+
+🐙 **GitHub:** [divyalakhtariya](https://github.com/divyalakhtariya)
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-> "Learning, building, and improving — one project at a time." 🚀
+**Learning • Building • Improving 🚀**

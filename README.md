@@ -34,7 +34,7 @@ Pandas • NumPy • Matplotlib • Seaborn • Plotly • Power BI • Tableau
 Scikit-learn • Machine Learning • NLP • TF-IDF • Logistic Regression • spaCy • Generative AI • LLMs • LangChain
 
 **Web & Backend:**
-Flask • FastAPI • React • Node.js • Express.js • REST APIs
+Flask • FastAPI • React  • REST APIs
 
 **Databases & Tools:**
 MySQL • PostgreSQL • MongoDB • Git • GitHub • VS Code • Ollama
@@ -45,7 +45,7 @@ MySQL • PostgreSQL • MongoDB • Git • GitHub • VS Code • Ollama
 
 ### 🧠 AI Flashcard & Quiz Generator
 
-An AI-powered learning application that transforms study notes into **flashcards and multiple-choice quizzes** with different difficulty levels, helping students make their learning more interactive.
+Developed an AI-powered web application that generates flashcards and multiple-choice quizzes from user-provided study notes using Google Gemini API. Implemented a React.js frontend and FastAPI backend for efficient API communication and responsive user interaction.
 
 **Tech:** React • Python • REST API • Generative AI
 
@@ -53,8 +53,8 @@ An AI-powered learning application that transforms study notes into **flashcards
 
 ### 🤖 AI Q&A Chatbot
 
-An AI-powered conversational chatbot built with **LangChain, Ollama, and Llama 3.2**. The project demonstrates how a locally running Large Language Model can be integrated into an interactive AI application.
-
+Developed a conversational AI chatbot using Python, Streamlit, LangChain, and Ollama with a locally hosted Llama 3.2 3B language model. Implemented context-aware conversations with persistent chat history and features including multiple chats, pin/unpin, rename, and delete operations.
+ 
 **Tech:** Python • Streamlit • LangChain • Ollama • Llama 3.2
 
 ---

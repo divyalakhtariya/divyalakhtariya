@@ -43,19 +43,19 @@ MySQL • PostgreSQL • MongoDB • Git • GitHub • VS Code • Ollama
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Q&A Chatbot
-
-An AI-powered conversational chatbot built with **LangChain, Ollama, and Llama 3.2**. The project demonstrates how a locally running Large Language Model can be integrated into an interactive AI application.
-
-**Tech:** Python • Streamlit • LangChain • Ollama • Llama 3.2
-
----
-
 ### 🧠 AI Flashcard & Quiz Generator
 
 An AI-powered learning application that transforms study notes into **flashcards and multiple-choice quizzes** with different difficulty levels, helping students make their learning more interactive.
 
 **Tech:** React • Python • REST API • Generative AI
+
+---
+
+### 🤖 AI Q&A Chatbot
+
+An AI-powered conversational chatbot built with **LangChain, Ollama, and Llama 3.2**. The project demonstrates how a locally running Large Language Model can be integrated into an interactive AI application.
+
+**Tech:** Python • Streamlit • LangChain • Ollama • Llama 3.2
 
 ---
 
